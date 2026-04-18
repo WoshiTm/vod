@@ -16,7 +16,7 @@
       "name": "秋名山見",
       "icon": "http://api.maiyoux.com:81/favicon.ico",
       "jsUrl": "https://raw.githubusercontent.com/WayneDuan/nowshowtimejs/refs/heads/main/v2/harunasan.js",
-      "description": "获取的影视站点: 秋名山見(live)"
+      "description": "获取的影视站点: 秋名山見"
     },
     {
       "id": "hkdoll",
@@ -94,13 +94,6 @@
       "icon": "https://ppp.porn/favicon.ico",
       "jsUrl": "https://raw.githubusercontent.com/WayneDuan/nowshowtimejs/refs/heads/main/v2/ppron.js",
       "description": "获取的影视站点: pppHub"
-    },
-    {
-      "id": "rou",
-      "name": "肉视频",
-      "icon": "https://rou.video/favicon.ico",
-      "jsUrl": "https://raw.githubusercontent.com/WayneDuan/nowshowtimejs/refs/heads/main/v2/rou.js",
-      "description": "获取的影视站点: 肉视频"
     },
     {
       "id": "shoetime-exporntoons",
